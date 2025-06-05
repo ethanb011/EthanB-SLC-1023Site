@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+Ethan Bedwell #4308072
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
